@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ajredniwja/react_app_js_v3/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ajredniwja/react_app_js_v3/static/js/main.1d929eca.chunk.js",
+    "main.js.map": "/ajredniwja/react_app_js_v3/static/js/main.1d929eca.chunk.js.map",
+    "runtime-main.js": "/ajredniwja/react_app_js_v3/static/js/runtime-main.74db0c35.js",
+    "runtime-main.js.map": "/ajredniwja/react_app_js_v3/static/js/runtime-main.74db0c35.js.map",
+    "static/js/2.d590d8f9.chunk.js": "/ajredniwja/react_app_js_v3/static/js/2.d590d8f9.chunk.js",
+    "static/js/2.d590d8f9.chunk.js.map": "/ajredniwja/react_app_js_v3/static/js/2.d590d8f9.chunk.js.map",
+    "static/js/3.bad57cb9.chunk.js": "/ajredniwja/react_app_js_v3/static/js/3.bad57cb9.chunk.js",
+    "static/js/3.bad57cb9.chunk.js.map": "/ajredniwja/react_app_js_v3/static/js/3.bad57cb9.chunk.js.map",
+    "index.html": "/ajredniwja/react_app_js_v3/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ajredniwja/react_app_js_v3/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d590d8f9.chunk.js.LICENSE.txt": "/ajredniwja/react_app_js_v3/static/js/2.d590d8f9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ajredniwja/react_app_js_v3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74db0c35.js",
+    "static/js/2.d590d8f9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1d929eca.chunk.js"
+  ]
+}
